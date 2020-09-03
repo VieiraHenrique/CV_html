@@ -70,3 +70,7 @@ a {
     margin-left: 5rem;
     list-style: circle;
 }
+
+.skills__table {
+    display: flex;
+}
