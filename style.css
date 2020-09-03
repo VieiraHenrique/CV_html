@@ -38,6 +38,9 @@ a {
 .sep-top-bg {
     margin-top: 5rem;
 }
+.sep-down-bg {
+    margin-bottom: 5rem;
+}
 
 .container {
     max-width: 96rem;
